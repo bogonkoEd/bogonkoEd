@@ -3,6 +3,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Strathmore University.
 - 🌱 &nbsp; Learning more about Web3.0 and Artificial Intelligence.
+- 🌐 &nbsp; Reach at eddy.bogonko@strathmore
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
