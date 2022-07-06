@@ -1,3 +1,9 @@
+<h2>  &nbsp;About Me </h2>
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science at Strathmore University.
+- 🌱 &nbsp; Learning more about Web3.0 and Artificial Intelligence.
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -23,4 +29,4 @@
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-333333.svg?style=flat&logo=intellij-idea)
   
 <br/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bogonkoEd&theme=buefy&layout=compact" />
