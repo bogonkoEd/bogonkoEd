@@ -1,26 +1,23 @@
-<h2>  &nbsp;About Me </h2>
+# Bogonko Eddy - Aspiring Software Engineer
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at Strathmore University.
-- 🌱 &nbsp; Learning more about Web3.0 and Artificial Intelligence.
-- 🌐 &nbsp; Reach at eddy.bogonko@strathmore
+Welcome to my GitHub profile! I'm an aspiring software engineer currently studying Computer Science at Strathmore University. My interests lie in exploring new technologies, developing innovative software solutions, and delving into the realms of Web3.0 and Artificial Intelligence.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+## 🚀 About Me
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Solidity](https://img.shields.io/badge/Solidity-333333.svg?style=flat&logo=solidity)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-333333.svg?style=flat&logo=tailwind-css)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🌱 Currently learning: Deepening my knowledge in Web3.0 and Artificial Intelligence.
+- 🎓 Education: Pursuing a degree in Computer Science at Strathmore University.
+- 🔍 Looking for opportunities in software development and AI research.
 
-  
-<br/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bogonkoEd&theme=buefy&layout=compact" />
+## 💻 Tech Stack
+
+- Languages: Proficient in Python, Java, and Solidity.
+- Frontend: Experienced with HTML5, CSS, JavaScript, React, and TailwindCSS.
+- Tools: Skilled in Git and GitHub for version control and collaboration.
+
+## 📫 How to Reach Me
+
+- Email: [eddy.bogonko@strathmore](mailto:eddy.bogonko@strathmore)
+
+---
+
+Feel free to explore my repositories and don't hesitate to reach out for collaborations or inquiries!
