@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm an aspiring software engineer currently studyi
 
 ## 📫 How to Reach Me
 
-- Email: [eddy.bogonko@strathmore](mailto:eddy.bogonko@strathmore)
+- Email: [eddy.bogonko@strathmore](mailto:eddy.bogonko@strathmore.edu)
 
 ---
 
